@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JohnnyDimo
+- 👋 Hi, I’m John Dimiceli or @JohnnyDimo on Github
 - 👀 I’m a Product Manager always learning
-- 🌱 I’m currently learning CSS Grid
+- 🌱 I’m currently learning CSS Grid and experimenting with JS
 
 <!---
 JohnnyDimo/JohnnyDimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
